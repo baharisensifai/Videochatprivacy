@@ -98,3 +98,7 @@ JavaScript  | Full | 29.5
 JavaScript  | Heavy | 29.5
 C++  |  | 
 Android  |  | 
+
+### Authors
+- **Hasan Bahari** - Project manager
+- **Mostafa Alishah** - golang deveroper - [github](https://github.com/mrAlishah)

@@ -1,0 +1,6 @@
+*~
+data/*.pem
+galene
+galene-password-generator/galene-password-generator
+passwd
+static/*.d.ts

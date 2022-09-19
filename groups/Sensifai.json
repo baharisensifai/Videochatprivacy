@@ -1,0 +1,6 @@
+{
+    "op": [{}],
+    "presenter": [{}],
+    "public": true,
+    "codecs":["vp8", "opus"]
+}
