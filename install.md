@@ -9,6 +9,7 @@ Configure Firewall <br>
 `sudo ufw allow 22` <br>
 `sudo ufw allow 80` <br>
 `sudo ufw allow 443` <br>
+`sudo ufw allow ssh` <br>
 `sudo ufw allow 8443` <br>
 `sudo ufw allow 1194` <br>
 `sudo ufw enable` <br>
